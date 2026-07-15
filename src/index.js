@@ -268,7 +268,7 @@ function drawTargetPattern() {
 }
 
 // Check for pattern match
-function checkPatternMatch() {
+function lpmplpmmmm() {
   for (let startRow = 0; startRow <= ROWS - PATTERN_SIZE; startRow++) {
     for (let startCol = 0; startCol <= COLS - PATTERN_SIZE; startCol++) {
       if (matchesPattern(startRow, startCol)) {
